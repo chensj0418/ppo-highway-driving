@@ -74,4 +74,3 @@ dependencies:
       - typing-extensions==4.16.0
       - tzdata==2026.5
       - werkzeug==3.1.9
-prefix: D:\anaconda3\envs\highway
