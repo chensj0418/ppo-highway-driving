@@ -1,0 +1,818 @@
+{
+  "random": [
+    {
+      "seed": 1000,
+      "return": 29.89284802241911,
+      "mean_speed": 21.249140586330526,
+      "speed_violation_fraction": 0.3670886075949367,
+      "front_risk_fraction": 0.08860759493670886,
+      "crashed": true,
+      "duration_seconds": 39.5
+    },
+    {
+      "seed": 1001,
+      "return": 14.907993158633872,
+      "mean_speed": 27.366842344943173,
+      "speed_violation_fraction": 0.02631578947368421,
+      "front_risk_fraction": 0.2631578947368421,
+      "crashed": true,
+      "duration_seconds": 19.0
+    },
+    {
+      "seed": 1002,
+      "return": -3.3332834235374236,
+      "mean_speed": 38.32628278090704,
+      "speed_violation_fraction": 0.5,
+      "front_risk_fraction": 0.14285714285714285,
+      "crashed": true,
+      "duration_seconds": 7.0
+    },
+    {
+      "seed": 1003,
+      "return": 50.4591948305165,
+      "mean_speed": 29.457787309570698,
+      "speed_violation_fraction": 0.053763440860215055,
+      "front_risk_fraction": 0.20430107526881722,
+      "crashed": true,
+      "duration_seconds": 46.5
+    },
+    {
+      "seed": 1004,
+      "return": 9.051732317992556,
+      "mean_speed": 31.89254940261722,
+      "speed_violation_fraction": 0.061224489795918366,
+      "front_risk_fraction": 0.3673469387755102,
+      "crashed": true,
+      "duration_seconds": 24.5
+    },
+    {
+      "seed": 1005,
+      "return": 4.8118729803083955,
+      "mean_speed": 15.22367480248682,
+      "speed_violation_fraction": 0.8245614035087719,
+      "front_risk_fraction": 0.11403508771929824,
+      "crashed": true,
+      "duration_seconds": 57.0
+    },
+    {
+      "seed": 1006,
+      "return": -6.974455156966296,
+      "mean_speed": 36.65696141856333,
+      "speed_violation_fraction": 0.30434782608695654,
+      "front_risk_fraction": 0.5217391304347826,
+      "crashed": true,
+      "duration_seconds": 11.5
+    },
+    {
+      "seed": 1007,
+      "return": -6.510789529471114,
+      "mean_speed": 34.95445834731148,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.4375,
+      "crashed": true,
+      "duration_seconds": 8.0
+    },
+    {
+      "seed": 1008,
+      "return": -3.239663625178789,
+      "mean_speed": 20.708875052477683,
+      "speed_violation_fraction": 0.4375,
+      "front_risk_fraction": 0.0,
+      "crashed": true,
+      "duration_seconds": 8.0
+    },
+    {
+      "seed": 1009,
+      "return": 7.338301051296963,
+      "mean_speed": 33.48700157653613,
+      "speed_violation_fraction": 0.0425531914893617,
+      "front_risk_fraction": 0.6382978723404256,
+      "crashed": true,
+      "duration_seconds": 23.5
+    },
+    {
+      "seed": 1010,
+      "return": -2.5864488364629814,
+      "mean_speed": 29.77080314119813,
+      "speed_violation_fraction": 0.041666666666666664,
+      "front_risk_fraction": 0.5833333333333334,
+      "crashed": true,
+      "duration_seconds": 12.0
+    },
+    {
+      "seed": 1011,
+      "return": 65.50590925115701,
+      "mean_speed": 28.71202102945244,
+      "speed_violation_fraction": 0.13333333333333333,
+      "front_risk_fraction": 0.2833333333333333,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1012,
+      "return": -5.410297634313681,
+      "mean_speed": 34.321797645968836,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.6,
+      "crashed": true,
+      "duration_seconds": 7.5
+    },
+    {
+      "seed": 1013,
+      "return": -0.48934715265816564,
+      "mean_speed": 35.24408638207506,
+      "speed_violation_fraction": 0.16666666666666666,
+      "front_risk_fraction": 0.3333333333333333,
+      "crashed": true,
+      "duration_seconds": 9.0
+    },
+    {
+      "seed": 1014,
+      "return": 72.05411091648384,
+      "mean_speed": 22.880681437992347,
+      "speed_violation_fraction": 0.35,
+      "front_risk_fraction": 0.025,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1015,
+      "return": -7.508780524672461,
+      "mean_speed": 35.56331947588225,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.4375,
+      "crashed": true,
+      "duration_seconds": 8.0
+    },
+    {
+      "seed": 1016,
+      "return": 0.6060657761421133,
+      "mean_speed": 33.92208247197552,
+      "speed_violation_fraction": 0.21875,
+      "front_risk_fraction": 0.4375,
+      "crashed": true,
+      "duration_seconds": 16.0
+    },
+    {
+      "seed": 1017,
+      "return": -4.335249364003387,
+      "mean_speed": 18.88538628614327,
+      "speed_violation_fraction": 0.6923076923076923,
+      "front_risk_fraction": 0.0,
+      "crashed": true,
+      "duration_seconds": 6.5
+    },
+    {
+      "seed": 1018,
+      "return": 12.222552717150997,
+      "mean_speed": 20.474677765444035,
+      "speed_violation_fraction": 0.532608695652174,
+      "front_risk_fraction": 0.20652173913043478,
+      "crashed": true,
+      "duration_seconds": 46.0
+    },
+    {
+      "seed": 1019,
+      "return": 22.6667038196102,
+      "mean_speed": 22.495813014577756,
+      "speed_violation_fraction": 0.3018867924528302,
+      "front_risk_fraction": 0.0,
+      "crashed": true,
+      "duration_seconds": 26.5
+    },
+    {
+      "seed": 1020,
+      "return": 5.585173743992316,
+      "mean_speed": 29.82672591641759,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.2647058823529412,
+      "crashed": true,
+      "duration_seconds": 17.0
+    },
+    {
+      "seed": 1021,
+      "return": 11.554925261536589,
+      "mean_speed": 33.088528795540896,
+      "speed_violation_fraction": 0.1282051282051282,
+      "front_risk_fraction": 0.3076923076923077,
+      "crashed": true,
+      "duration_seconds": 19.5
+    },
+    {
+      "seed": 1022,
+      "return": 23.57011473960616,
+      "mean_speed": 30.443376056689196,
+      "speed_violation_fraction": 0.015151515151515152,
+      "front_risk_fraction": 0.3939393939393939,
+      "crashed": true,
+      "duration_seconds": 33.0
+    },
+    {
+      "seed": 1023,
+      "return": -2.453877403918776,
+      "mean_speed": 33.002574915716295,
+      "speed_violation_fraction": 0.047619047619047616,
+      "front_risk_fraction": 0.5238095238095238,
+      "crashed": true,
+      "duration_seconds": 10.5
+    },
+    {
+      "seed": 1024,
+      "return": 3.621648917705489,
+      "mean_speed": 24.37022796836605,
+      "speed_violation_fraction": 0.24489795918367346,
+      "front_risk_fraction": 0.24489795918367346,
+      "crashed": true,
+      "duration_seconds": 24.5
+    },
+    {
+      "seed": 1025,
+      "return": -2.5052231857466474,
+      "mean_speed": 38.29545992643625,
+      "speed_violation_fraction": 0.625,
+      "front_risk_fraction": 0.5,
+      "crashed": true,
+      "duration_seconds": 8.0
+    },
+    {
+      "seed": 1026,
+      "return": 11.457740381543944,
+      "mean_speed": 26.754600081100023,
+      "speed_violation_fraction": 0.3333333333333333,
+      "front_risk_fraction": 0.45098039215686275,
+      "crashed": true,
+      "duration_seconds": 51.0
+    },
+    {
+      "seed": 1027,
+      "return": 11.049137021217712,
+      "mean_speed": 20.565198098753978,
+      "speed_violation_fraction": 0.6818181818181818,
+      "front_risk_fraction": 0.0,
+      "crashed": true,
+      "duration_seconds": 22.0
+    },
+    {
+      "seed": 1028,
+      "return": -0.17458195386739206,
+      "mean_speed": 18.156477974741662,
+      "speed_violation_fraction": 0.56,
+      "front_risk_fraction": 0.04,
+      "crashed": true,
+      "duration_seconds": 12.5
+    },
+    {
+      "seed": 1029,
+      "return": 32.74223497146738,
+      "mean_speed": 23.24476383584663,
+      "speed_violation_fraction": 0.44594594594594594,
+      "front_risk_fraction": 0.02702702702702703,
+      "crashed": true,
+      "duration_seconds": 37.0
+    }
+  ],
+  "idle": [
+    {
+      "seed": 1000,
+      "return": 39.279694336520365,
+      "mean_speed": 29.84110744855967,
+      "speed_violation_fraction": 0.015625,
+      "front_risk_fraction": 0.203125,
+      "crashed": true,
+      "duration_seconds": 32.0
+    },
+    {
+      "seed": 1001,
+      "return": 8.54284415589694,
+      "mean_speed": 29.79661753415638,
+      "speed_violation_fraction": 0.02,
+      "front_risk_fraction": 0.6,
+      "crashed": true,
+      "duration_seconds": 25.0
+    },
+    {
+      "seed": 1002,
+      "return": 57.23427051569409,
+      "mean_speed": 29.934013071895425,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.2,
+      "crashed": true,
+      "duration_seconds": 42.5
+    },
+    {
+      "seed": 1003,
+      "return": 120.0,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1004,
+      "return": 67.85747998539327,
+      "mean_speed": 29.957971014492752,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.16304347826086957,
+      "crashed": true,
+      "duration_seconds": 46.0
+    },
+    {
+      "seed": 1005,
+      "return": 111.06676363658732,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.15,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1006,
+      "return": 120.0,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1007,
+      "return": -1.5917471798728204,
+      "mean_speed": 29.66336030389364,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.6153846153846154,
+      "crashed": true,
+      "duration_seconds": 13.0
+    },
+    {
+      "seed": 1008,
+      "return": 2.461653573567263,
+      "mean_speed": 29.806590038314173,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.5517241379310345,
+      "crashed": true,
+      "duration_seconds": 14.5
+    },
+    {
+      "seed": 1009,
+      "return": 57.06428726270657,
+      "mean_speed": 29.956060606060603,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.23863636363636365,
+      "crashed": true,
+      "duration_seconds": 44.0
+    },
+    {
+      "seed": 1010,
+      "return": -2.0014178636319695,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.6086956521739131,
+      "crashed": true,
+      "duration_seconds": 11.5
+    },
+    {
+      "seed": 1011,
+      "return": 39.530386802146765,
+      "mean_speed": 29.919873015873016,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.2857142857142857,
+      "crashed": true,
+      "duration_seconds": 35.0
+    },
+    {
+      "seed": 1012,
+      "return": 118.83281521944717,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.041666666666666664,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1013,
+      "return": 30.128924208881173,
+      "mean_speed": 29.886953703703703,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.40625,
+      "crashed": true,
+      "duration_seconds": 32.0
+    },
+    {
+      "seed": 1014,
+      "return": 120.0,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1015,
+      "return": 120.0,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1016,
+      "return": 120.0,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1017,
+      "return": 119.93071208353014,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.008333333333333333,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1018,
+      "return": -3.6483253905764563,
+      "mean_speed": 29.583207995296885,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.6190476190476191,
+      "crashed": true,
+      "duration_seconds": 10.5
+    },
+    {
+      "seed": 1019,
+      "return": 120.0,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1020,
+      "return": 120.0,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1021,
+      "return": 120.0,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1022,
+      "return": 38.417111690011005,
+      "mean_speed": 29.94703196347032,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.3698630136986301,
+      "crashed": true,
+      "duration_seconds": 36.5
+    },
+    {
+      "seed": 1023,
+      "return": 82.60038008251374,
+      "mean_speed": 29.93362419300034,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.1559633027522936,
+      "crashed": true,
+      "duration_seconds": 54.5
+    },
+    {
+      "seed": 1024,
+      "return": 32.569640861450004,
+      "mean_speed": 29.93216374269006,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.24561403508771928,
+      "crashed": true,
+      "duration_seconds": 28.5
+    },
+    {
+      "seed": 1025,
+      "return": 51.66033731743054,
+      "mean_speed": 29.974358974358974,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.20512820512820512,
+      "crashed": true,
+      "duration_seconds": 39.0
+    },
+    {
+      "seed": 1026,
+      "return": 41.625281550727,
+      "mean_speed": 29.890379349046015,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.19696969696969696,
+      "crashed": true,
+      "duration_seconds": 33.0
+    },
+    {
+      "seed": 1027,
+      "return": 114.26690846303737,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.09166666666666666,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1028,
+      "return": 119.80902208494886,
+      "mean_speed": 30.0,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.016666666666666666,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1029,
+      "return": 52.78842640709195,
+      "mean_speed": 29.918708281315023,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.30337078651685395,
+      "crashed": true,
+      "duration_seconds": 44.5
+    }
+  ],
+  "ppo": [
+    {
+      "seed": 1000,
+      "return": 83.59583276441727,
+      "mean_speed": 22.971283326069535,
+      "speed_violation_fraction": 0.23333333333333334,
+      "front_risk_fraction": 0.15833333333333333,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1001,
+      "return": 89.26294171542692,
+      "mean_speed": 23.04447373178554,
+      "speed_violation_fraction": 0.10833333333333334,
+      "front_risk_fraction": 0.03333333333333333,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1002,
+      "return": 98.3003330959793,
+      "mean_speed": 24.628568243730587,
+      "speed_violation_fraction": 0.016666666666666666,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1003,
+      "return": 32.54629306104057,
+      "mean_speed": 26.782029552958107,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.30666666666666664,
+      "crashed": true,
+      "duration_seconds": 37.5
+    },
+    {
+      "seed": 1004,
+      "return": 97.80474975311049,
+      "mean_speed": 25.420234910397255,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.08333333333333333,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1005,
+      "return": 69.61444470953127,
+      "mean_speed": 25.545215272094296,
+      "speed_violation_fraction": 0.025,
+      "front_risk_fraction": 0.6166666666666667,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1006,
+      "return": 94.70260732376155,
+      "mean_speed": 23.952769330591163,
+      "speed_violation_fraction": 0.058333333333333334,
+      "front_risk_fraction": 0.016666666666666666,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1007,
+      "return": -7.137439285608794,
+      "mean_speed": 27.85072110648156,
+      "speed_violation_fraction": 0.029411764705882353,
+      "front_risk_fraction": 0.7058823529411765,
+      "crashed": true,
+      "duration_seconds": 17.0
+    },
+    {
+      "seed": 1008,
+      "return": 82.41170364631985,
+      "mean_speed": 21.63838226406711,
+      "speed_violation_fraction": 0.31666666666666665,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1009,
+      "return": 96.26927187331414,
+      "mean_speed": 24.6702148131483,
+      "speed_violation_fraction": 0.03333333333333333,
+      "front_risk_fraction": 0.025,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1010,
+      "return": -4.06458682462184,
+      "mean_speed": 27.849658287225985,
+      "speed_violation_fraction": 0.03333333333333333,
+      "front_risk_fraction": 0.6666666666666666,
+      "crashed": true,
+      "duration_seconds": 15.0
+    },
+    {
+      "seed": 1011,
+      "return": 84.00360991452351,
+      "mean_speed": 23.20398277938072,
+      "speed_violation_fraction": 0.075,
+      "front_risk_fraction": 0.13333333333333333,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1012,
+      "return": 109.95975762518952,
+      "mean_speed": 28.34325538597677,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1013,
+      "return": 85.80578512098145,
+      "mean_speed": 22.786102604578822,
+      "speed_violation_fraction": 0.13333333333333333,
+      "front_risk_fraction": 0.08333333333333333,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1014,
+      "return": 81.54636425537122,
+      "mean_speed": 22.20888328356522,
+      "speed_violation_fraction": 0.175,
+      "front_risk_fraction": 0.1,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1015,
+      "return": 90.22414277169128,
+      "mean_speed": 22.786111224955892,
+      "speed_violation_fraction": 0.075,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1016,
+      "return": 101.08008106748025,
+      "mean_speed": 25.42023496974161,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.025,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1017,
+      "return": 95.84165960194028,
+      "mean_speed": 25.003552240058593,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.15833333333333333,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1018,
+      "return": 55.077321133376294,
+      "mean_speed": 22.554726548031038,
+      "speed_violation_fraction": 0.11666666666666667,
+      "front_risk_fraction": 0.31666666666666665,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1019,
+      "return": 110.4396293492285,
+      "mean_speed": 29.727148219833982,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1020,
+      "return": 109.88374931813472,
+      "mean_speed": 28.137700551826523,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1021,
+      "return": 102.62272219888875,
+      "mean_speed": 26.336901577063927,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.025,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1022,
+      "return": 90.66631612355366,
+      "mean_speed": 24.17794836841274,
+      "speed_violation_fraction": 0.03333333333333333,
+      "front_risk_fraction": 0.1,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1023,
+      "return": 72.81358049302769,
+      "mean_speed": 24.292451003070493,
+      "speed_violation_fraction": 0.016666666666666666,
+      "front_risk_fraction": 0.2916666666666667,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1024,
+      "return": 88.0335224414026,
+      "mean_speed": 23.07776926896798,
+      "speed_violation_fraction": 0.2,
+      "front_risk_fraction": 0.025,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1025,
+      "return": 97.02259856810687,
+      "mean_speed": 24.53643626625488,
+      "speed_violation_fraction": 0.058333333333333334,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1026,
+      "return": 82.87186825798906,
+      "mean_speed": 25.420234910481433,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.19166666666666668,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1027,
+      "return": 40.64500444636898,
+      "mean_speed": 25.417218289294524,
+      "speed_violation_fraction": 0.041666666666666664,
+      "front_risk_fraction": 0.6583333333333333,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1028,
+      "return": 107.02175909851705,
+      "mean_speed": 27.17653786920515,
+      "speed_violation_fraction": 0.0,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    },
+    {
+      "seed": 1029,
+      "return": 98.2987630895781,
+      "mean_speed": 24.62629161955525,
+      "speed_violation_fraction": 0.016666666666666666,
+      "front_risk_fraction": 0.0,
+      "crashed": false,
+      "duration_seconds": 60.0
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "seed": 42,
+  "actual_steps": 500736,
+  "env_config": {
+    "observation": {
+      "type": "Kinematics",
+      "vehicles_count": 17,
+      "features": [
+        "presence",
+        "x",
+        "y",
+        "vx",
+        "vy"
+      ],
+      "absolute": false,
+      "normalize": true,
+      "see_behind": true,
+      "features_range": {
+        "x": [
+          -400,
+          400
+        ],
+        "y": [
+          -16,
+          16
+        ],
+        "vx": [
+          -50,
+          50
+        ],
+        "vy": [
+          -20,
+          20
+        ]
+      }
+    },
+    "action": {
+      "type": "DiscreteMetaAction",
+      "target_speeds": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35,
+        40,
+        45
+      ]
+    },
+    "simulation_frequency": 15,
+    "policy_frequency": 2,
+    "other_vehicles_type": "highway_env.vehicle.behavior.IDMVehicle",
+    "screen_width": 1000,
+    "screen_height": 250,
+    "centering_position": [
+      0.5,
+      0.5
+    ],
+    "scaling": 4.0,
+    "show_trajectories": false,
+    "render_agent": true,
+    "offscreen_rendering": true,
+    "manual_control": false,
+    "real_time_rendering": false,
+    "neighbour_vehicles_connected_lanes": false,
+    "lanes_count": 4,
+    "vehicles_count": 50,
+    "controlled_vehicles": 1,
+    "initial_lane_id": 1,
+    "duration": 60,
+    "ego_spacing": 2,
+    "vehicles_density": 1,
+    "collision_reward": -1,
+    "right_lane_reward": 0.1,
+    "high_speed_reward": 0.4,
+    "lane_change_reward": 0,
+    "reward_speed_range": [
+      20,
+      30
+    ],
+    "normalize_reward": false,
+    "offroad_terminal": true,
+    "initial_speed": 30.0,
+    "preferred_speed": 30.0,
+    "allowed_speed_range": [
+      20.0,
+      40.0
+    ],
+    "traffic_speed_range": [
+      20.0,
+      40.0
+    ],
+    "traffic_window": 400.0,
+    "initial_offsets": [
+      -300,
+      -200,
+      -100,
+      100,
+      200,
+      300
+    ],
+    "initial_jitter": 5.0,
+    "arrival_mean_seconds": 3.0,
+    "spawn_band": [
+      365.0,
+      395.0
+    ],
+    "max_vehicles_per_lane": 8,
+    "spawn_min_gap": 10.0,
+    "safe_time_headway": 1.5,
+    "critical_ttc": 3.0,
+    "reward_weights": {
+      "speed_tracking": 1.0,
+      "speed_violation": 1.0,
+      "front_risk": 2.0,
+      "unsafe_lane_change": 2.0,
+      "collision": 100.0,
+      "offroad": 100.0
+    },
+    "deadline_speed_weight": 0.0,
+    "step_time_cost": 0.0,
+    "lane_speed_ranges": [
+      [
+        35.0,
+        40.0
+      ],
+      [
+        30.0,
+        35.0
+      ],
+      [
+        25.0,
+        30.0
+      ],
+      [
+        20.0,
+        25.0
+      ]
+    ],
+    "target_distance": 1800.0,
+    "success_bonus": 10.0,
+    "timeout_penalty": 5.0,
+    "slow_front_probability": 0.5
+  }
+}
